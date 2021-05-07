@@ -9,7 +9,7 @@
 <a href="mailto:rwiteshbera@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br />
+<br/>
 ### About Me 🚀
 🎓 Hi, I'm Rwitesh Bera, a self-taught programmer & pursuing my B.Tech. in Computer Science & Engineering.</br>
 👨‍💻 I am passionate about Web Development, Open Source and enjoy learning new things. </br>
