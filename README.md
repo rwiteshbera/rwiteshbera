@@ -4,10 +4,10 @@
   <img align="left" width="24px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg"  />
 </a>
 <a href="https://twitter.com/RwiteshBera">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Twitter.svg" />
 </a>
 <a href="mailto:rwiteshbera@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Gmail.svg" />
 </a>
 
 <br /> 
