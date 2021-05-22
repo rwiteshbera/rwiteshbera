@@ -18,8 +18,7 @@
 ### About Me 🚀
 🎓 Hi, I'm Rwitesh Bera, a self-taught programmer & pursuing my B.Tech. in Computer Science & Engineering.</br>
 👨‍💻 I am passionate about Web Development, Open Source and enjoy learning new things. </br>
+
 <a href="https://github.com/rwiteshbera/rwiteshbera/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&theme=highcontrast&show_icons=true" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwiteshbera&layout=compact&theme=highcontrast)](https://github.com/rwiteshbera/github-readme-stats)
