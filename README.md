@@ -23,4 +23,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&theme=highcontrast&show_icons=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=rwiteshbera&theme=dark&show_icons=true/top-langs/?username=rwiteshbera)](https://github.com/anuraghazra/github-readme-stats)
