@@ -20,5 +20,5 @@
 👨‍💻 I am passionate about Web Development, Open Source and enjoy learning new things. </br>
 
 <a href="https://github.com/rwiteshbera/rwiteshbera/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&theme=highcontrast&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&theme=great-gatsby&show_icons=true" />
 </a>
