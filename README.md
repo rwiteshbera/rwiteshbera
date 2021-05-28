@@ -19,7 +19,7 @@
 🎓 Hi, I'm Rwitesh Bera, a self-taught programmer & pursuing my B.Tech. in Computer Science & Engineering.</br>
 👨‍💻 I am passionate about Web Development, Open Source and enjoy learning new things. </br>
 
-<a href="https://github.com/rwiteshbera/rwiteshbera/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&theme=great-gatsby&show_icons=true" />
+<a href="https://github.com/rwiteshbera/rwiteshbera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Rwitesh's github stats" />
 </a>
 
