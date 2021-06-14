@@ -6,9 +6,6 @@
 <a href="https://twitter.com/RwiteshBera">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Twitter.svg" />
 </a>
-<a href="https://www.facebook.com/rwiteshbera1">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" />
-</a>
 <a href="mailto:rwiteshbera@gmail.com">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Gmail.svg" />
 </a>
