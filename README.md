@@ -34,4 +34,4 @@
 </span>
 </span>
 
-[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-kulkarni-25&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/rohan-kulkarni-25/github-readme-activity-graph)
+[![Rwitesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rwiteshbera&bg_color=000000&color=ffdd00&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
