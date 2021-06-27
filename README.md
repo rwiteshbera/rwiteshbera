@@ -20,3 +20,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Rwitesh's github stats" />
 </a>
 
+<h2 align="center">Tech-Stacks 👨‍💻</h2>
+<span>
+<span align="centeer">
+ <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</span>
+<span align="ceneter">
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</span>
+</span>
+
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohan-kulkarni-25&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/rohan-kulkarni-25/github-readme-activity-graph)
