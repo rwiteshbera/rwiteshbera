@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rwitesh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rwitesh</h1>
 <h3 align="center">A self-taught programmer from India. I am passionate about Development, Open Source and enjoy learning new things.</h3>
+
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -7,14 +9,15 @@
 
 - 📫 How to reach me **rwiteshbera@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+## 💬 Connect with me:
 <p align="left">
 <a href="https://twitter.com/rwiteshbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rwiteshbera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rwitesh-bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwitesh-bera" height="30" width="40" /></a>
 <a href="https://discord.gg/RWITESH#2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RWITESH#2110" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Languages and Tools:
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
