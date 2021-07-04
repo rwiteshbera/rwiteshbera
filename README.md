@@ -1,37 +1,33 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rwitesh!
+<h1 align="center">Hi 👋, I'm Rwitesh</h1>
+<h3 align="center">A self-taught programmer from India. I am passionate about Development, Open Source and enjoy learning new things.</h3>
 
-<a href="https://www.linkedin.com/in/rwitesh-bera/">
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg"  />
-</a>
-<a href="https://twitter.com/RwiteshBera">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Twitter.svg" />
-</a>
-<a href="mailto:rwiteshbera@gmail.com">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Gmail.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwiteshbera&label=Profile%20views&color=ff0000&style=flat" alt="rwiteshbera" /> </p>
 
-<br /> 
+- 🌱 I’m currently learning **Backend Development**
 
-### About Me 🚀
-🎓 Hi, I'm Rwitesh Bera, a self-taught programmer & pursuing my B.Tech. in Computer Science & Engineering.</br>
-👨‍💻 I am passionate about Web Development, Open Source and enjoy learning new things. </br>
+- 👯 I’m looking to collaborate on **Open Source Project**
 
-<a href="https://github.com/rwiteshbera/rwiteshbera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Rwitesh's github stats" />
-</a>
+- 📫 How to reach me **rwiteshbera@gmail.com**
 
-<h2 align="center">Tech-Stacks 👨‍💻</h2>
-<span>
-<span align="centeer">
- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-</span>
-<span align="ceneter">
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</span>
-</span>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rwiteshbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rwiteshbera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rwitesh-bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwitesh-bera" height="30" width="40" /></a>
+<a href="https://discord.gg/RWITESH#2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RWITESH#2110" height="30" width="40" /></a>
+</p>
 
-[![Rwitesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rwiteshbera&bg_color=000000&color=ffdd00&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&show_icons=true&theme=dark&locale=en" alt="rwiteshbera" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rwiteshbera&theme=dark" alt="rwiteshbera" /></p>
