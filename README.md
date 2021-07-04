@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rwitesh</h1>
 <h3 align="center">A self-taught programmer from India. I am passionate about Development, Open Source and enjoy learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwiteshbera&label=Profile%20views&color=ff0000&style=flat" alt="rwiteshbera" /> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
@@ -31,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwiteshbera&show_icons=true&theme=dark&locale=en" alt="rwiteshbera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rwiteshbera&theme=dark" alt="rwiteshbera" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwiteshbera&label=Profile%20views&color=ff0000&style=flat" alt="rwiteshbera" /> </p>
