@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m pursuing **B.Tech. in Computer Science and Engineering**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
