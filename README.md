@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rwitesh</h1>
-<h3 align="center">A self-taught programmer from India. I am passionate about Development, Open Source and enjoy learning new things.</h3>
+<h3 align="center">I am an undergradute student and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Development and love to learn new things. Currently I am learning Web Development and exploring various fields.</h3>
 
 ## 🙋‍♂️ About Me
 
