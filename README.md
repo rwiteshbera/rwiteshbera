@@ -12,9 +12,9 @@
 
 ## 💬 Connect with me:
 <p align="left">
-<a href="https://twitter.com/rwiteshbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rwiteshbera" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rwitesh-bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwitesh-bera" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rwiteshbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rwiteshbera" height="30" width="40" /></a>
+<a href="https://twitter.com/rwiteshbera" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rwiteshbera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rwitesh-bera" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rwitesh-bera" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rwiteshbera" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rwiteshbera" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Languages and Tools:
