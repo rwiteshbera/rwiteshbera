@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rwitesh</h1>
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Rwitesh</h1>
 
 ![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://user-images.githubusercontent.com/73098407/159363233-72bad6de-a470-4b97-8e8b-c0c85a33852c.png)
 
