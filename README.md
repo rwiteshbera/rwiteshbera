@@ -2,7 +2,7 @@
 
 ![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://user-images.githubusercontent.com/73098407/159363233-72bad6de-a470-4b97-8e8b-c0c85a33852c.png)
 
-<h3 align="center">I am an undergraduate student and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Development and love to learn new things. Currently I am learning Web 3.0.</h3>
+<h3 align="center">Hi, There! I'm Rwitesh Bera, A Full Stack Developer. I am pursuing B.Tech. in Computer Science and Engineering at Academy of Technology, Kolkata, India. I love to build cool projects using frameworks I know. Whenever I build or learn something new, I share it with other people on Linkedin and Twitter. Recently, I have started learning Blockchain Development. I believe blockchain will shape the future of the Internet.</h3>
 
 ## 🙋‍♂️ About Me
 
