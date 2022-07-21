@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Rwitesh</h1>
 
-![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://user-images.githubusercontent.com/73098407/159363233-72bad6de-a470-4b97-8e8b-c0c85a33852c.png)
+![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://user-images.githubusercontent.com/73098407/180176583-749b01e6-00a2-49c7-8b16-17d9371d923d.png)
+
 
 <h3 align="center">Hi, There! I'm Rwitesh Bera, A Full Stack Developer. I am pursuing B.Tech. in Computer Science and Engineering at Academy of Technology, Kolkata, India. I love to build cool projects using frameworks I know. Whenever I build or learn something new, I share it with other people on Linkedin and Twitter.</h3>
 
